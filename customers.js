@@ -1,9 +1,9 @@
 const customers = [
   {
     name: {
-      title: 'dr',
-      first: 'sophia',
-      last: 'burns'
+      title: 'Dr',
+      first: 'Sophia',
+      last: 'Burns'
     },
     location: {
       street: {
@@ -47,9 +47,9 @@ const customers = [
   },
   {
     name: {
-      title: 'mx',
-      first: 'krin',
-      last: 'oliver'
+      title: 'Ms',
+      first: 'Krin',
+      last: 'Oliver'
     },
     location: {
       street: {
@@ -93,9 +93,9 @@ const customers = [
   },
   {
     name: {
-      title: 'ms',
-      first: 'letitia',
-      last: 'perry'
+      title: 'Ms',
+      first: 'Letitia',
+      last: 'Perry'
     },
     location: {
       street: {
@@ -140,8 +140,8 @@ const customers = [
   {
     name: {
       title: 'Ms',
-      first: 'margie',
-      last: 'jones'
+      first: 'Margie',
+      last: 'Jones'
     },
     location: {
       street: {
@@ -185,9 +185,9 @@ const customers = [
   },
   {
     name: {
-      title: '',
-      first: 'cristina',
-      last: 'porter'
+      title: 'Ms',
+      first: 'Cristina',
+      last: 'Porter'
     },
     location: {
       street: {
@@ -231,9 +231,9 @@ const customers = [
   },
   {
     name: {
-      title: 'ms',
-      first: 'laurie',
-      last: 'dean'
+      title: 'Ms',
+      first: 'Laurie',
+      last: 'Dean'
     },
     location: {
       street: {
@@ -277,9 +277,9 @@ const customers = [
   },
   {
     name: {
-      title: 'mr',
-      first: 'russell',
-      last: 'simmons'
+      title: 'Mr',
+      first: 'Russell',
+      last: 'Simmons'
     },
     location: {
       street: {
@@ -323,9 +323,9 @@ const customers = [
   },
   {
     name: {
-      title: 'ms',
-      first: 'carmen',
-      last: 'hunt'
+      title: 'Ms',
+      first: 'Carmen',
+      last: 'Hunt'
     },
     location: {
       street: {
@@ -369,9 +369,9 @@ const customers = [
   },
   {
     name: {
-      title: 'ms',
-      first: 'erika',
-      last: 'coleman'
+      title: 'Ms',
+      first: 'Erika',
+      last: 'Coleman'
     },
     location: {
       street: {
@@ -415,9 +415,9 @@ const customers = [
   },
   {
     name: {
-      title: 'mr',
-      first: 'clifford',
-      last: 'ramos'
+      title: 'Mr',
+      first: 'Clifford',
+      last: 'Ramos'
     },
     location: {
       street: {
@@ -461,9 +461,9 @@ const customers = [
   },
   {
     name: {
-      title: 'mr',
-      first: 'cody',
-      last: 'evans'
+      title: 'Mr',
+      first: 'Cody',
+      last: 'Evans'
     },
     location: {
       street: {
@@ -507,9 +507,9 @@ const customers = [
   },
   {
     name: {
-      title: 'mr',
-      first: 'miguel',
-      last: 'ross'
+      title: 'Mr',
+      first: 'Miguel',
+      last: 'Ross'
     },
     location: {
       street: {
